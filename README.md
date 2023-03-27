@@ -1,5 +1,5 @@
 Quản lý khách hàng với các chức năng (chưa có giao diện):
-1.Nhập mới
+1.Nhập mới 
 2.Xuất thông tin
 3.Tìm kiếm
 4.Sắp xếp
